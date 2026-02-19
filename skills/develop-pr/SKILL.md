@@ -1,6 +1,7 @@
 ---
 name: develop-pr
-description: Create a develop PR when the user provides a user story (number), branch name, and release branch, perform the following steps using Git and Github.
+description: Create a develop PR when the user provides a user story (number) and branch name, and has the documents to be committed already staged; perform the following steps using Git and Github.
+compatibility: Requires git and either GitHub CLI (gh) or a GitHub MCP server.
 metadata:
   author: ErickMirandaTR
   version: "1.0"
