@@ -13,6 +13,7 @@ MCP (Model Context Protocol) servers extend Copilot's capabilities by providing 
 | [Saffron](https://github.com/tr/a208070_ask_saffron_mcp-server/blob/feature/remote_mcp/README_test_mcp.md) | Saffron MCP server for specialized queries | Active |
 | [GitHub](https://docs.github.com/en/copilot/how-tos/provide-context/use-mcp/use-the-github-mcp-server) | GitHub MCP server for repository and issue management integration | Active |
 | [Azure DevOps](https://github.com/tr/aiplatform_mcp/tree/main/src/ado-mcp-server) | Azure DevOps MCP server for work item and project management | Active |
+| [Lucid](https://help.lucid.co/hc/en-us/articles/42578801807508-Integrate-Lucid-with-AI-tools-using-the-Lucid-MCP-server) | Lucid MCP server for document search, diagram creation, and team collaboration | Active |
 
 ## How to Install and Configure MCP Servers
 
