@@ -7,7 +7,7 @@ A mighty arsenal of custom skills, instructions, and tools forged in the fires o
 This repository provides a comprehensive toolkit for extending GitHub Copilot with specialized:
 
 - **👉 [Custom Instructions](./docs/README.instructions.md)** - Coding standards and best practices for specific technologies and frameworks
-- **👉 [Agent Skills](./skills/README.md)** - Self-contained folders with instructions and bundled resources for specialized tasks
+- **👉 [Agent Skills](./docs/README.skills.md)** - Self-contained folders with instructions and bundled resources for specialized tasks
 - **👉 [MCP Servers](./docs/README.mcp-servers.md)** - Model Context Protocol servers for extending Copilot capabilities
 
 ## 🎯 Why Use Agentic Stuff?
