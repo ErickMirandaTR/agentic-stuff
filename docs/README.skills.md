@@ -8,8 +8,8 @@ This folder contains a curated collection of agent skills for GitHub Copilot—b
 
 | Skill | Description |
 |---|---|
-| [develop-pr](./develop-pr/) | Create a develop PR when the user provides a user story number and a branch name |
-| [release-pr](./release-pr/) | Create release and develop PRs when given a user story number, branch name, and release branch |
+| [develop-pr](../skills/develop-pr/SKILL.md) | Create a develop PR when the user provides a user story number and a branch name |
+| [release-pr](../skills/release-pr/SKILL.md) | Create release and develop PRs when given a user story number, branch name, and release branch |
 
 ### Recommended Skills from awesome-copilot & skills.sh
 
