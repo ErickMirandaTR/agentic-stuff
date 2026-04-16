@@ -19,10 +19,10 @@ Download the `.agent.md` file and place it in your workspace under `.copilot/age
 
 ```bash
 # Install C# Expert agent
-curl -o .github/agents/CSharpExpert.agent.md https://raw.githubusercontent.com/github/awesome-copilot/main/agents/CSharpExpert.agent.md
+curl -o .copilot/agents/CSharpExpert.agent.md https://raw.githubusercontent.com/github/awesome-copilot/main/agents/CSharpExpert.agent.md
 
 # Install .NET Upgrade agent
-curl -o .github/agents/dotnet-upgrade.agent.md https://raw.githubusercontent.com/github/awesome-copilot/main/agents/dotnet-upgrade.agent.md
+curl -o .copilot/agents/dotnet-upgrade.agent.md https://raw.githubusercontent.com/github/awesome-copilot/main/agents/dotnet-upgrade.agent.md
 ```
 
 **To Apply:**
